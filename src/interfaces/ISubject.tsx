@@ -1,0 +1,3 @@
+interface ISubject{
+  elemts: number[];
+}
